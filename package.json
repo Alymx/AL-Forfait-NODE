@@ -1,0 +1,34 @@
+{
+  "name": "tutoriel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "^4.16.4",
+    "http-errors": "~1.6.3",
+    "lodash": "^4.17.15",
+    "morgan": "~1.9.1",
+    "nodemon": "^1.19.3"
+  },
+  "description": "forfait NODE",
+  "main": "server.js",
+  "devDependencies": {}
+ ,
+  "keywords": [
+    "node",
+    "fortfait",
+    "AL"
+  ],
+  "author": "Alymx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alymx/AL-Forfait-NODE/issues"
+  },
+  "homepage": "https://github.com/Alymx/AL-Forfait-NODE#readme"
+}
