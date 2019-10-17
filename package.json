@@ -15,14 +15,5 @@
     "lodash": "^4.17.15",
     "morgan": "~1.9.1",
     "nodemon": "^1.19.3"
-  },
-  "description": "forfait NODE",
-  "main": "server.js",
-  "devDependencies": {}
- ,
-  "keywords": [
-    "node",
-    "fortfait",
-    "AL"
-  ],
+  }
 }
