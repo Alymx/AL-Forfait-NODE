@@ -25,10 +25,4 @@
     "fortfait",
     "AL"
   ],
-  "author": "Alymx",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Alymx/AL-Forfait-NODE/issues"
-  },
-  "homepage": "https://github.com/Alymx/AL-Forfait-NODE#readme"
 }
